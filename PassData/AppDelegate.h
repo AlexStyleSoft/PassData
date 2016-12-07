@@ -1,0 +1,20 @@
+//
+//  AppDelegate.h
+//  PassData
+//
+//  Created by Хорошо on 07.12.16.
+//  Copyright © 2016 GoodDay. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+//plarform :ios
+//pod 'SVProgressHUD','~>1.0'
+
+
+@end
+
